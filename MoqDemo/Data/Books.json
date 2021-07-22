@@ -1,0 +1,46 @@
+﻿{
+  "books": [
+    {
+      "isbn": "9781593279509",
+      "title": "Eloquent JavaScript, Third Edition",
+      "firstName": "Marijn",
+      "lastName": "Haverbeke",
+      "published": "2018-12-04T00:00:00.000Z"
+    },
+    {
+      "isbn": "9781491943533",
+      "title": "Practical Modern JavaScript",
+      "firstName": "Nicolás",
+      "lastName": "Bevacqua",
+      "published": "2017-07-16T00:00:00.000Z"
+    },
+    {
+      "isbn": "9781593277574",
+      "title": "Understanding ECMAScript 6",
+      "firstName": "Nicholas C.",
+      "lastName": "Zakas",
+      "published": "2016-09-03T00:00:00.000Z"
+    },
+    {
+      "isbn": "9781449365035",
+      "title": "Speaking JavaScript",
+      "firstName": "Axel",
+      "lastName": "Rauschmayer",
+      "published": "2014-04-08T00:00:00.000Z"
+    },
+    {
+      "isbn": "9781449331818",
+      "title": "Learning JavaScript Design Patterns",
+      "firstName": "Addy",
+      "lastName": "Osmani",
+      "published": "2012-08-30T00:00:00.000Z"
+    },
+    {
+      "isbn": "9798602477429",
+      "title": "You Don't Know JS Yet",
+      "firstName": "Kyle",
+      "lastName": "Simpson",
+      "published": "2020-01-28T00:00:00.000Z"
+    }
+  ]
+}
